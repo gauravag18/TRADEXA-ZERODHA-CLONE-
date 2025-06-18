@@ -1,0 +1,21 @@
+# Node modules in all subprojects
+**/node_modules/
+
+# Env files in backend
+backend/.env
+
+# Logs
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# Optional: If you're using VSCode
+.vscode/
+
+# Optional: build artifacts (adjust based on your setup)
+**/dist/
+**/build/
