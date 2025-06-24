@@ -4,8 +4,8 @@ Welcome to Zerodha! This is a full-stack MERN-based clone of the popular stock t
 
 ---
 ## LINK :
-Frontend  - https://tradexa-dashboard.onrender.com
-Dashboard - https://tradexa-dashboard-main.onrender.com
+* Frontend  - https://tradexa-dashboard.onrender.com
+* Dashboard - https://tradexa-dashboard-main.onrender.com
 
 ## 📑 Table of Contents
 
