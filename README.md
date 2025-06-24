@@ -133,10 +133,14 @@ npm start
 
 ### 📷 Mockups
 
-| Home Page                            | Dashboard                                  | About Page                         |
-| ------------------------------------ | ------------------------------------------ | ---------------------------------- | 
-| ![Home](./screenshots/HomePage.jpeg) | ![Dashboard](./screenshots/Dashboard.jpeg) | ![Orders](.screenshots/About.jpeg) | 
+### Home Page
+![Home Page](./screenshots/Homepage.jpeg)
 
+### Dashboard Page
+![Login Page](./screenshots/Dashboard.png)
+
+### About Page
+![Chat Interface](./screenshots/About.jpeg)
 
 
 ## 📜 License
