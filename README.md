@@ -1,4 +1,4 @@
-# 🌐 TRADEXA – Zerodha Clone
+# 🌐 Zerodha Clone
 
 Welcome to TRADEXA! This is a full-stack MERN-based clone of the popular stock trading platform Zerodha, with extended functionalities like dashboard.
 
