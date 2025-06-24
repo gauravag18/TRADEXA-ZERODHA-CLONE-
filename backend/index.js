@@ -10,7 +10,7 @@ const positionsRoute = require("./routes/positionsRoute.js");
 const userRoute = require("./routes/userRoute.js");
 const orderRoute = require("./routes/orderRoute.js");
 
-const PORT = process.env.PORT || 3002;
+const PORT = process.env.PORT || 3000 ;
 const url = process.env.MONGO_URL;
 
 const app = express();
