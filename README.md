@@ -133,9 +133,9 @@ npm start
 
 ### 📷 Mockups
 
-| Home Page                       | Dashboard                                 | About Page                         |
-| ------------------------------- | ----------------------------------------- | ---------------------------------- | 
-| ![Home](./screenshots/HomePage.png) | ![Dashboard](./screenshots/Dashboard.png) | ![Orders](.screenshots/About.png) | 
+| Home Page                            | Dashboard                                  | About Page                         |
+| ------------------------------------ | ------------------------------------------ | ---------------------------------- | 
+| ![Home](./screenshots/HomePage.jpeg) | ![Dashboard](./screenshots/Dashboard.jpeg) | ![Orders](.screenshots/About.jpeg) | 
 
 
 
