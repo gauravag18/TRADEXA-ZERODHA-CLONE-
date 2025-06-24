@@ -15,7 +15,7 @@ function Navbar() {
                     <form className="d-flex" role="search">
                         <ul className="navbar-nav mb-lg-0">
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="http://localhost:3001/register">
+                                <a className="nav-link active" aria-current="page" href="https://tradexa-dashboard-main.onrender.com/register">
                                     Register
                                 </a>
                             </li>
