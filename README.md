@@ -117,13 +117,8 @@ npm start
 ## 🎯 Features
 
 * ✅ Full User Authentication
-* 🔐 Role-based Authorization
 * 📊 Interactive Dashboard with Charts
-* 📝 Profile Management
-* 💬 Real-time One-on-One Chat
-* 🎨 32+ DaisyUI Themes for Customization
 * 📈 Orders, Products, Pricing Pages
-* 📱 Responsive Design
 * 🚀 Seamless Routing with React Router
 
 ---
