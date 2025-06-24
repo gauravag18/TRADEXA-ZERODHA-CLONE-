@@ -1,8 +1,7 @@
 # Node modules in all subprojects
 **/node_modules/
 
-# Env files in backend
-backend/.env
+.env
 
 # Logs
 **/npm-debug.log
