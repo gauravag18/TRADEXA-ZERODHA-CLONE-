@@ -137,7 +137,7 @@ npm start
 ![Home Page](./screenshots/Homepage.jpeg)
 
 ### Dashboard Page
-![Login Page](./screenshots/Dashboard.png)
+![Login Page](./screenshots/Dashboard.jpeg)
 
 ### About Page
 ![Chat Interface](./screenshots/About.jpeg)
